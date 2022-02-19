@@ -5,7 +5,7 @@ This is the UI Challenge repository. All the instructions and guidelines are giv
 
 You have to complete the Flutter UI challenge within the given time (1 hour). You will be given extra 10 mins for the submission (GitHub/Google Drive). You need to clone any one screen from the folder that will be shared with you before the challenge.
 
-## 🔗 Submission link: http://bit.ly/ff-challenge-22
+### 🔗 Submission link: http://bit.ly/ff-challenge-22
 
 ### 🏅 Total marks: 30
 Marks Division:
